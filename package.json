@@ -1,0 +1,22 @@
+{
+  "name": "jquery",
+  "version": "1.0.0",
+  "description": "description jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TenAndr/npm.git"
+  },
+  "author": "Ten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TenAndr/npm/issues"
+  },
+  "homepage": "https://github.com/TenAndr/npm#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
